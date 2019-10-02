@@ -1,1 +1,1 @@
-Submit your pull requests in this repo
+Submit your pull request in this repo
